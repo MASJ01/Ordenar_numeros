@@ -1,0 +1,15 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad3\Recursividad3\bin\Debug\Recursividad3.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad3\Recursividad3\bin\Debug\Recursividad3.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad3\Recursividad3\bin\Debug\Recursividad3.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad3\Recursividad3\obj\Debug\Recursividad3.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad3\Recursividad3\obj\Debug\Recursividad3.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Recursividad3\Recursividad3\obj\Debug\Recursividad3.csprojResolveAssemblyReference.cache
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Estructuras de Datos\Recursividad3\Recursividad3\bin\Debug\Recursividad3.exe.config
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Estructuras de Datos\Recursividad3\Recursividad3\obj\Debug\Recursividad3.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Estructuras de Datos\Recursividad3\Recursividad3\obj\Debug\Recursividad3.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad3\Recursividad3\bin\Debug\Recursividad3.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad3\Recursividad3\obj\Debug\Recursividad3.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad3\Recursividad3\obj\Debug\Recursividad3.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad3\Recursividad3\bin\Debug\Recursividad3.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad3\Recursividad3\bin\Debug\Recursividad3.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad3\Recursividad3\obj\Debug\Recursividad3.csprojResolveAssemblyReference.cache
